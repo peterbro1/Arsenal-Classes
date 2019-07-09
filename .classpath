@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/peter/Desktop/craft shit/nes/test/plugins/Essentials.jar"/>
+	<classpathentry kind="lib" path="C:/Users/peter/Desktop/craft shit/nes/test/plugins/EssentialsChat.jar"/>
+	<classpathentry kind="lib" path="C:/Users/peter/Desktop/craft shit/nes/test/plugins/EssentialsProtect.jar"/>
+	<classpathentry kind="lib" path="C:/Users/peter/Desktop/craft shit/nes/test/plugins/EssentialsSpawn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/peter/Desktop/craft shit/nes/test/plugins/GriefPrevention_2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/peter/Desktop/craft shit/nes/test/plugins/PermissionsEx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/peter/Desktop/craft shit/nes/test/plugins/Vault-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/peter/Desktop/craft shit/gangs/cache/patched_1.12.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

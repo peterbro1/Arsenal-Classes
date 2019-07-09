@@ -1,0 +1,7 @@
+name: ArsenalClasses
+main: me.gmx.arsenalclasses.ArsenalClasses
+version: BETA 1.2
+author: GMX
+commands:
+  arsenalclasses:
+    aliases: [ac, arc]
